@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gameprojects\\casinoplayground\\source\\casinoplayground\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gameprojects\\casinoplayground\\intermediate\\build\\win64\\x64\\casinoplaygroundeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gameprojects\\casinoplayground\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\casinoplayground\\definitions.casinoplayground.h",
+            "d:\\gameprojects\\casinoplayground\\source\\casinoplayground\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\gameprojects\\casinoplayground\\intermediate\\build\\win64\\unrealeditor\\inc\\casinoplayground\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

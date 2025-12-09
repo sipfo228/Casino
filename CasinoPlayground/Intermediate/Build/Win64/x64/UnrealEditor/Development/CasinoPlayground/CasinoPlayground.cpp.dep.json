@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\gameprojects\\casinoplayground\\source\\casinoplayground\\casinoplayground.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gameprojects\\casinoplayground\\intermediate\\build\\win64\\x64\\casinoplaygroundeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\gameprojects\\casinoplayground\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\casinoplayground\\definitions.casinoplayground.h",
+            "d:\\gameprojects\\casinoplayground\\source\\casinoplayground\\casinoplayground.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

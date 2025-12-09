@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CasinoPlayground",
+			"Path": "..\\Source\\CasinoPlayground.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CasinoPlaygroundEditor",
+			"Path": "..\\Source\\CasinoPlaygroundEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
